@@ -1,0 +1,27 @@
+{
+  "name": "streak-counter",
+  "version": "1.0.0",
+  "description": "a streak counter for the browser, inspired by Duolingo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannwaneri/streak-counter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannwaneri/streak-counter/issues"
+  },
+  "homepage": "https://github.com/dannwaneri/streak-counter#readme",
+  "dependencies": {
+    "ts-jest": "^28.0.7",
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.6"
+  }
+}
