@@ -15,7 +15,7 @@ npm install @jsjoeio/streak-counter
 ### Usage
 
 ```js
-import {streakCounter} from '@jsjoeio/streak-counter'
+import {streakCounter} from '@josjoei/streak-counter'
 
 const today = new Date()
 const streak = streakCounter(localStorage, today)
